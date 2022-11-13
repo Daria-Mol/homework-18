@@ -1203,7 +1203,9 @@ footer{
 	}
 }
 @media(max-width:735px){
+	
 	.footer__columns{
+		padding: 25px 0px 15px 0px;
 		grid-template-areas: 
 		"about "
 		"site-map courses "
@@ -1262,10 +1264,9 @@ footer{
 		margin: 0px auto 24px auto;
 		max-width: 130px;
 	}
-	.createx-about__text {
+	/* .createx-about__text {
 		max-width: 280px;
-	}
-
+	} */
 }
 
 .createx-about__logo {
