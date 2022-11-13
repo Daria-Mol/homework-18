@@ -271,8 +271,8 @@ main{
 	position:absolute;
 	width:52px;
 	height:52px;
-	left:13,5px;
-	top:3.5px;
+	left:0;
+	top:3,5px;
 	border-radius: 50%;
 	background: #ff3f3a;
 	opacity: 0.12;
@@ -407,7 +407,7 @@ main{
 	border-radius: 50%;
 	position:absolute;
 	left:-23%;
-	top:center;
+	top:50%;
 }
 .statistics-head__item:first-child:before{
 	content: '';
